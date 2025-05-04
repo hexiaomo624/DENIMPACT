@@ -3,7 +3,7 @@ Dataset of ‘A Feature Selection and Enhanced Reuse Framework for Detection and
 
 Google Drive：https://drive.google.com/file/d/1lVQaw1QM0g_gfueOC589RsdhkbhYTJ1J/view
 
-**If the dataset can help your reasearch， please star this repository and cite this paper.
+**If the dataset can help your research， please star this repository and cite this paper.
 **
 
 
